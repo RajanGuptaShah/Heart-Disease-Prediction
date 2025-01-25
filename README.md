@@ -1,4 +1,5 @@
 Heart Disease Prediction Web App
+
 A Flask-based web application that predicts heart disease using Logistic Regression (~80% accuracy). Users input age, chest pain type, and max heart rate to get predictions. It features an interactive UI and is deployment-ready.
 
 Key Features:
